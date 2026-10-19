@@ -1,0 +1,9 @@
+# Virtual muhit
+venv/
+
+# Ma'lumotlar bazasi
+db.sqlite3
+
+# Python kesh fayllari
+__pycache__/
+*.pyc

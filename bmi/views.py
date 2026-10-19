@@ -24,7 +24,7 @@ def bmi_calculate(request):
             elif bmi >= 18.5 and bmi <= 24.9:
 
                 status = "Me'yoriy vazn"
-                advice = "Ajoyib! Vazningiz me'yorda. Shu alfozda davom eting!"
+                advice = "Ajoyib! Vazningiz me'yorda. Shu tarzda davom eting!"
 
             elif bmi >= 25 and bmi <= 29.9:
 
